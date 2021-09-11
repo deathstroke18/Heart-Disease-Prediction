@@ -5,10 +5,10 @@ A jupyter notebook comparing different models to find the best model for heart d
 
 Python libraries uesd:
     
-    - Numpy
-    - Pandas
-    - Seaborn
-    - Matplotlib
+  - Numpy
+  - Pandas
+  - Seaborn
+  - Matplotlib
     
     
 
