@@ -6,7 +6,7 @@ A jupyter notebook comparing different models to find the best model for heart d
 
 ## Technologies
 
-Python libraries uesd:
+Python libraries used:
     
   - Numpy
   - Pandas
