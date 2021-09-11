@@ -1,7 +1,8 @@
 # Heart-Disease-Prediction
+--------------------------------------------------------------------------------------------------
 A jupyter notebook comparing different models to find the best model for heart disease prediction
 
-##Technologies
+## Technologies
 
 Python libraries uesd:
     
@@ -9,7 +10,7 @@ Python libraries uesd:
   - Pandas
   - Seaborn
   - Matplotlib
-    
+  - Scikit-learn  
     
 
 Machine Learning algorithms used:
