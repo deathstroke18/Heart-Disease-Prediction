@@ -12,7 +12,8 @@ Python libraries used:
   - Pandas
   - Seaborn
   - Matplotlib
-  - Scikit-learn  
+  - Scikit-learn
+  - Keras  
     
 
 Machine Learning algorithms used:
